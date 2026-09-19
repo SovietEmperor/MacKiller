@@ -14,4 +14,4 @@ ADs:
 this is our club's official website: https://nsfz-developer.xyz 
 
 ---
-(c)SovietEmperor Corporation.All rights reserved.
+(c)SovietEmperor.All rights reserved.
